@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8BitGoose.AsciiFBXExporter", "8BitGoose.AsciiFBXExporter.csproj", "{90b5ef6d-9cfd-74aa-2d58-6791a9761afb}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8BitGoose.AsciiFBXExporter.Editor", "8BitGoose.AsciiFBXExporter.Editor.csproj", "{f0d480d8-054e-6ad3-6cf7-8f71485ed85f}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{1c6e1054-ba28-08ba-08e1-93737dc41837}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90b5ef6d-9cfd-74aa-2d58-6791a9761afb}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90b5ef6d-9cfd-74aa-2d58-6791a9761afb}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f0d480d8-054e-6ad3-6cf7-8f71485ed85f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f0d480d8-054e-6ad3-6cf7-8f71485ed85f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1c6e1054-ba28-08ba-08e1-93737dc41837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1c6e1054-ba28-08ba-08e1-93737dc41837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
